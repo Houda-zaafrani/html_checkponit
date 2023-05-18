@@ -1,0 +1,102 @@
+body {
+    background-color: lightgray;
+}
+* {
+    margin : 0px;
+
+}
+
+nav { 
+    /* display: inline; */
+    text-align: center;
+    background-color: lightgreen;
+    
+    }
+
+nav h1 a{
+        color: rgb(14, 116, 184);
+        padding-right: 30px;
+        text-decoration: none;
+    }
+    div{
+        margin: 1%;
+    }
+.about{
+      text-align: center;
+
+    }
+    h1{
+        letter-spacing: 4%;
+        color: rgb(255, 8, 28);
+        
+    }
+.home{
+     text-align: center;
+     
+    }
+.work{
+        text-align: center;
+    }
+.resume{
+        text-align: center;
+    }
+.contact{
+    text-align: center;
+}
+/*height of buton unwork*/
+.buton_home{
+         background-color: blue;
+        width: 10%;
+
+           }
+.area_home{
+   
+    background-color: chocolate;
+}
+.area_work{
+   
+    background-color:blueviolet;
+}
+.button_work{
+    color: rgb(161, 8, 20);
+    background-color: aquamarine;
+}
+
+.table{
+    text-align: center;
+    
+}
+.buton_contact{
+    background-color: crimson;
+ 
+
+}
+footer{
+  
+    width: 100%;
+    background-color: black;
+    color: beige;
+    text-align: center;
+    bottom: 0%;
+    left: 0%;
+}
+hr{
+    border-top: 1px dashed rgb(83, 78, 78);
+    border: 10%;
+  
+}
+footer>i{
+    color: rgb(46, 123, 190);
+    text-align: right;
+}
+.img_top{
+    text-align: right;
+    width: 2%;
+    height: 0%;
+    float: right
+}
+
+form {
+margin : auto;
+width: 250px;
+}
